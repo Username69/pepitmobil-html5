@@ -1,4 +1,4 @@
-		Pepit Mobil development team
+﻿		Pepit Mobil development team
 		============================
 
 Copyright
@@ -18,3 +18,4 @@ Main programmer and founder
 
 Contributors
 ------------
+- Quentin Bauduin <quentoche@hotmail.com>
